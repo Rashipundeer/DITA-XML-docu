@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_substract_numbers">
+    <title>How to substract numbers</title>
+    <shortdesc>Here you will get instrustuctions for substraction feature of XYZ Calc
+        apllication.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_sv1_rgz_svb"/>
+        <context>
+            <p> To successfully subtract numbers, you must know what is subtraction.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the minus (-) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_btx_khz_svb">
+            <p>The result from the subtraction is displayed</p>
+        </result>
+        <example id="example_azn_n3z_svb">
+            <p>You want to subtract 2 from 3. The equation will look like 3-2=1. You enter 3. Press
+                minus. Enter 2. Press equals. </p>
+            <p>The result 1 appears on the screen. </p>
+        </example>
+    </taskbody>
+</task>

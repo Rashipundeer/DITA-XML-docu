@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End User Guide For XYZ Calc Application</title>
+    <topichead navtitle="Sum Up"/>
+    <topichead navtitle="Substract">
+        <topicref href="how_to_substract_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Multiply"/>
+    <topichead navtitle="Divide"/>
+</map>
